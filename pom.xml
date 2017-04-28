@@ -9,9 +9,9 @@
   <name>MR1</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
+<!-- properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+  </properties> -->
 
   <scm>
      <connection>scm:git:https://github.com/Nivedha18-V/MR-1.git</connection>
@@ -20,11 +20,11 @@
   </scm>
   
   <distributionManagement>
-     <repository>
-        <id>MavenRelease</id>
+    <repository>
+           <id>MavenRelease</id>
         <url>https://github.com/Nivedha18-V/MR-1.git</url>
      </repository>
-  </distributionManagement>
+     </distributionManagement>
 
   <dependencies>
     <dependency>
