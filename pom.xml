@@ -3,7 +3,7 @@
 
   <groupId>org.MR1</groupId>
   <artifactId>MR1</artifactId>
-  <version>0.0.6-SNAPSHOT</version>
+  <version>0.0.6</version>
   <packaging>jar</packaging>
 
   <name>MR1</name>
@@ -16,7 +16,7 @@
   <scm>
      <connection>scm:git:https://github.com/Nivedha18-V/MR-1.git</connection>
      <url>scm:git:https://github.com/Nivedha18-V/MR-1.git</url>
-    <tag>MR1-0.0.1</tag>
+    <tag>MR1-0.0.6</tag>
   </scm>
   
   <distributionManagement>
