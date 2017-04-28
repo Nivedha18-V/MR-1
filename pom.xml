@@ -40,7 +40,7 @@
 <configuration>
 <autoVersionSubmodules>true</autoVersionSubmodules>
 <releaseProfiles>release</releaseProfiles> 
-</configuration></plugin>
+</configuration>
 </plugin></plugins></build>
   
 </project>
